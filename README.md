@@ -7,7 +7,7 @@ It's for practicing C++ Projects.
 - Understanding Object-Oriented programming's encapsulation, inheritance, polymorphism properly and writing related console-based programs.
 
 # Recent Changes
-### 2021-09-17: Built this repository.
+### 2021-09-17: Built this repository. Also put my biggest example practice for this week.
 
 # Scheduled Projects
 - 2021-09-22~28: Learning about Struct, Object-Oriented Programming, Objects and Classes.
