@@ -10,6 +10,7 @@ It's for practicing C++ Projects.
 ### 2021-09-17: Built this repository. Also put my biggest example practice for this week.
 
 # Scheduled Projects
+- 2021-09-01~21: Practicing C language that learned before, for recall memories, by redone some examples.
 - 2021-09-22~28: Learning about Struct, Object-Oriented Programming, Objects and Classes.
 - 2021-09-29~2021-10-05: Learning about Class Access Specificers, Functions, Member functions, "Inline" Function, Object C++'s Call Member Function.
 - 2021-10-06-12: Learning about Array, Strcpy, String, Objects and Call Member, Constructor and Destructor, "this" Pointer.
